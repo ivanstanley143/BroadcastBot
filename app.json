@@ -7,11 +7,11 @@
         "bot",
         "broadcast Bot",
         "Telegram Bot",
-        "NacBots"
+        "GURU_TEAMS_REAL"
     ],
-    "website": "https://t.me/NacBots",
-    "repository": "https://github.com/nacbots/BroadcastBot",
-    "success_url": "https://github.com/nacbots",
+    "website": "https://t.me/+YOZeaG_AwI0wMzZl",
+    "repository": "https://t.me/+eAQHhr5bN2U0ODI9",
+    "success_url": "https://t.me/+Eyt3T8CffPwxYTM1",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
