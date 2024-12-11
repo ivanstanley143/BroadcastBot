@@ -3,3 +3,6 @@ tgcrypto
 aiofiles
 motor
 dnspython
+Flask
+gunicorn
+aiohttp
